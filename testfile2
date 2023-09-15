@@ -1,3 +1,7 @@
 test file2
+<<<<<<< HEAD
 added line 2 from gitlocal
 added this line to see diff
+=======
+added new line 3
+>>>>>>> ee43172406f9bb651da44d00b476cab6364723df
