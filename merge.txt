@@ -1,4 +1,8 @@
 master Feat first line
 master feat second line second commit
 
+<<<<<<< HEAD
 master feat third commit after F1 has 1 commit where i dont find F1 commit msg  in master
+=======
+F1 first line first commit 
+>>>>>>> F1
